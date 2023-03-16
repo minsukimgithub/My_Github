@@ -1,4 +1,6 @@
 <!-- Heading -->
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Minsu%20Kim&fontSize=90" />
+
 # My_Github
 
 안녕하세요 김민수의 깃허브에 오신 것을 환영합니다.
