@@ -9,6 +9,7 @@
 |:--|--:|
 |사는곳|서울|
 
+<img src="https://img.shields.io/badge/Python-FF9E0Fstyle=flat&logo=Python&logoColor=White"/>
 
 <!-- Image -->
 
